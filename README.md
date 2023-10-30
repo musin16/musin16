@@ -10,7 +10,6 @@ Soy Mouhcine, un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM),
 - 😄 Pronombres: Él/él.
 - ⚡ Dato curioso: Me apasiona la programación desde que era un niño y estoy creado
       mi propia aplicación de seguimiento de hábitos para mejorar mi productividad.
-![Imagen de perfil]()
 
 
 
