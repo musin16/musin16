@@ -8,7 +8,7 @@ Soy Mouhcine, un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM),
 - 💬 Puedes preguntarme sobre programación en Java, desarrollo de aplicaciones Android o cualquier tema relacionado con DAM.
 - 📫 Puedes contactarme a través de mi correo electrónico [melmouhcine03@gmail.com] o seguirme en linkedin (https://www.linkedin.com/in/mouhcineElQaddoury/).
 - 😄 Pronombres: Él/él.
-- ⚡ Dato curioso: Me apasiona la programación desde que era un niño y estoy creado
+- ⚡ Dato curioso: Me apasiona la programación desde que hace tiempo y estoy creado
       mi propia aplicación de seguimiento de hábitos para mejorar mi productividad.
 
 
